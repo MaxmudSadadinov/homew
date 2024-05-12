@@ -1,0 +1,23 @@
+DEBUG 2024-05-12 11:49:24,257 посетили страницу "main"
+INFO 2024-05-12 11:49:24,262 "GET /hw/main/ HTTP/1.1" 200 30
+INFO 2024-05-12 11:51:25,502 Watching for file changes with StatReloader
+DEBUG 2024-05-12 11:51:30,444 посетили страницу "main"
+INFO 2024-05-12 11:51:30,448 "GET /hw/main/ HTTP/1.1" 200 329
+DEBUG 2024-05-12 11:56:05,780 посетили страницу "about me"
+INFO 2024-05-12 11:56:05,784 "GET /hw/about/ HTTP/1.1" 200 366
+INFO 2024-05-12 11:57:05,926 /home/max/Desktop/djj/hwproject/hwproject/settings.py changed, reloading.
+INFO 2024-05-12 11:57:07,720 Watching for file changes with StatReloader
+INFO 2024-05-12 11:57:09,637 /home/max/Desktop/djj/hwproject/hwproject/urls.py changed, reloading.
+INFO 2024-05-12 11:57:11,427 Watching for file changes with StatReloader
+INFO 2024-05-12 11:57:14,338 /home/max/Desktop/djj/hwproject/hwapp/views.py changed, reloading.
+INFO 2024-05-12 11:57:16,232 Watching for file changes with StatReloader
+INFO 2024-05-12 11:57:35,757 /home/max/Desktop/djj/hwproject/hwproject/urls.py changed, reloading.
+INFO 2024-05-12 11:57:37,618 Watching for file changes with StatReloader
+INFO 2024-05-12 11:57:39,466 /home/max/Desktop/djj/hwproject/hwproject/settings.py changed, reloading.
+INFO 2024-05-12 11:57:41,233 Watching for file changes with StatReloader
+INFO 2024-05-12 11:57:45,204 /home/max/Desktop/djj/hwproject/hwapp/urls.py changed, reloading.
+INFO 2024-05-12 11:57:46,988 Watching for file changes with StatReloader
+INFO 2024-05-12 11:57:48,827 /home/max/Desktop/djj/hwproject/hwapp/views.py changed, reloading.
+INFO 2024-05-12 11:57:50,550 Watching for file changes with StatReloader
+INFO 2024-05-12 11:57:52,372 /home/max/Desktop/djj/hwproject/hwapp/urls.py changed, reloading.
+INFO 2024-05-12 11:57:54,377 Watching for file changes with StatReloader
